@@ -1,0 +1,98 @@
+body {
+	background-color: #1f1f1f;
+	text-align: center;
+}
+
+#maindiv {
+	color: white;
+	text-align: center;
+	padding-bottom: 0px;
+
+}
+
+#hello {
+	color: #FCF4A3;
+}
+#maindiv h1, h2{
+	font-family: 'Rubik Mono One', sans-serif;
+}
+
+#maindiv p, h3 {
+    font-family: 'DM Sans', sans-serif;
+}
+
+#technologies {
+	color: #FCF4A3;
+}
+.transition {
+	transition: 0.5s ease-in-out;
+}
+
+#maindiv a {
+	color: inherit;
+	text-decoration: none;
+}
+#python:hover {
+	color: #FCD12A;
+
+}	
+
+#django:hover {
+	color: #00A86B;
+}
+
+#html:hover {
+	color: #F9812A;
+}
+
+#css:hover {
+	color: #008ECC;
+}
+
+#js:hover {
+	color: #F8E473;
+}
+
+#php:hover {
+	color: #95C8D8;
+}
+
+#linux:hover {
+	color: #FDA50F;
+}
+
+#bash:hover {
+	color: #555F;
+}
+
+#contact {
+	padding-top: 20px;
+	color: #FCF4A3;
+}
+#awesomeicons {
+	max-width: 500px;
+	margin-left: auto;
+	margin-right: auto;
+	font-size: 25px;
+	display: table;
+}
+
+ul {
+    display: table-cell;
+    vertical-align: middle;
+}
+
+#github:hover {
+	color: black;
+}
+
+#mail {
+	margin-left: 10px;
+}
+
+#mail:hover {
+	color: black;
+}
+@media only screen and (min-width: 768) {
+
+}
