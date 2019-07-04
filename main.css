@@ -83,7 +83,7 @@ ul {
 }
 
 #github:hover {
-	color: black;
+	color: #fcf4a3;
 }
 
 #mail {
@@ -91,7 +91,7 @@ ul {
 }
 
 #mail:hover {
-	color: black;
+	color: #fcf4a3;
 }
 @media only screen and (min-width: 768) {
 
